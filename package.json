@@ -1,0 +1,44 @@
+{
+  "name": "react-progress-event",
+  "version": "1.0.0",
+  "private": true,
+  "homepage": "./",
+  "dependencies": {
+    "camelize": "^1.0.0",
+    "chart.js": "^2.9.4",
+    "classnames": "^2.2.6",
+    "dateformat": "^4.4.1",
+    "firebase": "^8.2.2",
+    "flux": "^4.0.0",
+    "frappe-gantt": "^0.5.0",
+    "lodash.find": "^4.6.0",
+    "moment": "^2.29.1",
+    "node-sass": "^4.0.0",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "react-quill": "^1.3.5",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "4.0.1",
+    "react-to-pdf": "0.0.13",
+    "react-toast-notifications": "^2.4.0",
+    "shards-react": "^1.0.3",
+    "shortid": "^2.2.16",
+    "snapsvg": "^0.5.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build:prod": "npm run build",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
